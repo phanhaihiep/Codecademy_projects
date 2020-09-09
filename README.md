@@ -1,4 +1,4 @@
-# Codecademy_projects
+# Captone projects
 Projects using Python to visualize financial data:
 1. Project 1: Chart gallery (Basic)
 2. Project 2: Machine Learing Fundamental Linear Regression
